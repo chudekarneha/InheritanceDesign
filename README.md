@@ -17,19 +17,19 @@ Resources available:
 
 Inheritance/src folder:-
 
-    1.	Hospital.java
-    2.	HospitalEmployee.java
-    3.	Doctor.java
-    4.	Nurse.java
-    5.	Surgeon.java
+    Hospital.java
+    HospitalEmployee.java
+    Doctor.java
+    Nurse.java
+    Surgeon.java
 
 Inheritance/bin folder:-
 
-    1.	Hospital.class
-    2.	HospitalEmployee.class
-    3.	Doctor.class
-    4.	Nurse.class
-    5.	Surgeon.class
+    Hospital.class
+    HospitalEmployee.class
+    Doctor.class
+    Nurse.class
+    Surgeon.class
 
 Procedure to run this application:
 
