@@ -35,18 +35,18 @@ Procedure to run this application:
 
 1.	Clone this project in your local computer using git command or using download zip option.
 
-git clone https://github.com/chudekarneha/InheritanceDesign.git
+    git clone https://github.com/chudekarneha/InheritanceDesign.git
 
-or
+    or
 
-Click Code ( right side of repository ) -> expand dropdown -> download zip.
+    Click Code ( right side of repository ) -> expand dropdown -> download zip.
 
 2.	Import application in eclipse IDE
 
-File -> Import -> Projects from Folder or Archive -> browse local directory path where application is cloned
+    File -> Import -> Projects from Folder or Archive -> browse local directory path where application is cloned
 
 3.	Steps to run the application
 
-Expand src folder
+    Expand src folder
 
-Right Click on Hospital.java file -> Run As -> Java Application
+    Right Click on Hospital.java file -> Run As -> Java Application
