@@ -17,36 +17,36 @@ Resources available:
 
 Inheritance/src folder:-
 
-1.	Hospital.java
-2.	HospitalEmployee.java
-3.	Doctor.java
-4.	Nurse.java
-5.	Surgeon.java
+    1.	Hospital.java
+    2.	HospitalEmployee.java
+    3.	Doctor.java
+    4.	Nurse.java
+    5.	Surgeon.java
 
 Inheritance/bin folder:-
 
-1.	Hospital.class
-2.	HospitalEmployee.class
-3.	Doctor.class
-4.	Nurse.class
-5.	Surgeon.class
+    1.	Hospital.class
+    2.	HospitalEmployee.class
+    3.	Doctor.class
+    4.	Nurse.class
+    5.	Surgeon.class
 
 Procedure to run this application:
 
 1.	Clone this project in your local computer using git command or using download zip option.
 
-    git clone https://github.com/chudekarneha/InheritanceDesign.git
+        git clone https://github.com/chudekarneha/InheritanceDesign.git
 
     or
 
-    Click Code ( right side of repository ) -> expand dropdown -> download zip.
+        Click Code ( right side of repository ) -> expand dropdown -> download zip.
 
 2.	Import application in eclipse IDE
 
-    File -> Import -> Projects from Folder or Archive -> browse local directory path where application is cloned
+        File -> Import -> Projects from Folder or Archive -> browse local directory path where application is cloned
 
 3.	Steps to run the application
 
     Expand src folder
 
-    Right Click on Hospital.java file -> Run As -> Java Application
+        Right Click on Hospital.java file -> Run As -> Java Application
